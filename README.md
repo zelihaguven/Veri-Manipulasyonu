@@ -12,3 +12,29 @@ Bu proje, NumPy kütüphanesi kullanarak veri manipülasyonu ve temel matematiks
 - **Matematiksel İşlemler**: Toplama, çıkarma, çarpma, bölme gibi temel matematiksel işlemleri gerçekleştirebilirsiniz.
 - **Matris İşlemleri**: Matris çarpımı, ters alma ve determinant hesaplama gibi işlemleri yapabilirsiniz.
 
+# Veri Manipülasyonu - Pandas
+
+Bu dosya, Pandas kütüphanesi kullanarak veri manipülasyonu ile ilgili temel bilgileri içermektedir. Aşağıda, dosyada yer alan ana başlıklar ve açıklamaları bulunmaktadır.
+
+## İçindekiler
+
+- [Pandas Serisi Oluşturma](#pandas-serisi-oluşturma)
+- [Serinin Temel Özellikleri](#serinin-temel-özellikleri)
+- [Index İsimlendirmesi](#index-isimlendirmesi)
+- [Sözlük Üzerinden Liste Oluşturma](#sözlük-üzerinden-liste-oluşturma)
+- [İki Seriyi Birleştirmek](#iki-seriyi-birleştirmek)
+- [Pandas DataFrame Oluşturma](#pandas-dataframe-oluşturma)
+- [DataFrame İsimlendirme](#dataframe-isimlendirme)
+- [DataFrame Özellikleri](#dataframe-özellikleri)
+- [Numpy Array Üzerinden DataFrame](#numpy-array-üzerinden-dataframe)
+- [Rastgele Değerler ile DataFrame Oluşturma](#rastgele-değerler-ile-dataframe-oluşturma)
+- [DataFrame İndeks Ayarlama](#dataframe-indeks-ayarlama)
+- [Satır Silme](#satır-silme)
+- [Fancy Indexing](#fancy-indexing)
+- [Kolon Kontrolü](#kolon-kontrolü)
+- [Yeni Değişken Oluşturma](#yeni-değişken-oluşturma)
+- [Birleştirme - Join İşlemleri](#birleştirme---join-i̇şlemleri)
+- [Gruplama ve Toplulaştırma](#gruplama-ve-toplulaştırma)
+- [apply - Fonksiyon Uygulama](#apply---fonksiyon-uygulama)
+- [Sonuç](#sonuç)
+
