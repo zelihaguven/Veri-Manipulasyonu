@@ -1,4 +1,3 @@
-# Veri-Manipulasyonu
 
 # Veri Manipülasyonu - NumPy Kütüphanesi
 
